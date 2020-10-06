@@ -175,7 +175,7 @@ a{
 footer{
     margin: 0;
     background-color: #71c9ce;
-    height: 75px;
+    height: 100px;
 }
 
 .info{
@@ -183,7 +183,7 @@ footer{
     color: blanchedalmond;
     margin: 0;
     position: relative;
-    left: 435px;
+    left: 445px;
     top: 5px;
     padding-right: 15px;
     font-size: 2rem;
