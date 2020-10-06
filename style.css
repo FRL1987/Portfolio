@@ -189,3 +189,9 @@ footer{
     font-size: 2rem;
     font-family: 'Indie Flower', cursive;
 }
+
+.contactinformation{
+    margin: 0;
+    text-align: center;
+    padding-bottom: 50px;
+}
