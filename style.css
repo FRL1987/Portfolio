@@ -1,0 +1,190 @@
+body{
+    margin: 0;
+    font-size: 16px;
+}
+
+h1{
+    font-family: 'Sacramento', cursive;
+    color: black;
+}
+
+p{
+    font-family: 'Quicksand', sans-serif;
+    color: black;
+}
+
+
+/* style for head */
+
+.headpar{
+    margin: 0;    
+    width: 100%;
+    height: 700px;
+    background-color: #e3fdfd;
+}
+
+.head{
+    margin: 0 auto 0 auto;
+    width: 50%;
+    height: 700px;
+    background-color: #e3fdfd;
+}
+
+.headh1{
+    font-size: 2.5rem;
+    padding-top: 75px;
+    text-align: center;
+    margin: 0;
+}
+
+.headp{
+    line-height: 2;
+    text-align: center;
+    margin: 0;
+}
+
+.cloud1{
+    top: 20px;
+    margin: 0;
+    position: relative;
+    opacity: 0.5;
+}
+
+.cloud2{
+    bottom: 50px;
+    left: 300px;
+    margin: 0;
+    position: relative;
+    opacity: 0.5;
+}
+
+.road{
+    display: block;
+    margin: 0 auto 0 auto;
+}
+
+.bubble1{
+    margin: 0;
+    position: relative;
+    top: 50px;
+    opacity: 0.5;
+    left: 265px;
+    width: 15%;
+    border-style: dotted;
+    border-bottom: none;
+    border-width: 9px;
+}
+
+/* style for top */
+
+.toppar{
+    margin: 0;
+    background-color: #cbf1f5;
+    width: 100%;
+    height: 400px;
+}
+
+.top{
+    margin: auto;
+    background-color: #cbf1f5;
+    width: 50%;
+}
+
+.tophead{ 
+    margin: 0;
+    padding-top: 50px;
+}
+
+.topp{   
+    line-height: 2;    
+    margin-left: 0;
+}
+
+.design{
+    padding-top: 25px;
+    width: 35%;
+    margin: 10px;    
+    float: left;
+}
+
+.bubble2{
+    margin: 0;
+    position: relative;
+    top: 125px;
+    left: 25px;
+    opacity: 0.5;
+    width: 15%;
+    border-style: dotted;
+    border-bottom: none;
+    border-width: 9px;
+}
+
+/* style for middle */
+
+.middlepar{
+    background-color: #a6e3e9;
+    margin: 0;
+    width: 100%;
+}
+
+.middle{
+    background-color: #a6e3e9;
+    margin: 0 auto 0 auto;
+    width: 50%;
+    height: 300px;
+}
+
+.profile{
+    width: 35%;
+    float: left;
+    margin: 0;
+    padding-top: 25px;
+}
+
+.touchhead{
+    margin: 0;
+    padding-top: 50px;
+}
+
+.touchtext{
+    text-align: left;
+    position: relative;
+    left: 10px;
+    line-height: 2;
+    margin: 0;
+    padding-top: 20px;
+    
+}
+
+/* footer style */
+
+ul{
+    margin: 0;
+}
+
+li{
+    display: inline-block;
+    margin: 0;
+}
+
+a{
+    margin: 0;
+}
+
+footer{
+    margin: 0;
+    background-color: #71c9ce;
+    height: 75px;
+}
+
+.info{
+    text-align: center;
+    color: blanchedalmond;
+    margin: 0;
+    position: relative;
+    left: 435px;
+    top: 5px;
+    padding-right: 15px;
+    font-size: 2rem;
+    font-family: 'Indie Flower', cursive;
+}
